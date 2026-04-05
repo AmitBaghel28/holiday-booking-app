@@ -227,5 +227,7 @@ Every request is logged as structured JSON:
 
 The `/health` endpoint checks live database connectivity before responding.
 
+## Repository
 
+GitHub: https://github.com/AmitBaghel28/yoliday
 
