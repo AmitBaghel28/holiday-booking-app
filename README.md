@@ -1,4 +1,4 @@
-# Yoliday — Experiences Marketplace Backend
+# holiday-booking-app — Experiences Marketplace Backend
 
 Backend assessment for the Yoliday platform. Implements auth, role-based access control, experience management, and booking logic.
 
